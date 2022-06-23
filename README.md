@@ -37,10 +37,10 @@
 <div>
   <h2>My contacts:</h2>
   <p>
-    <img align="left" alt="telegram" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> <span align="right">@snejcazh</span>
+    <img align="left" alt="telegram" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> <a align="right" href="https://t.me/snejca">@snejcazh</span>
   </p>
   <p>
-    <img align="left" alt="email" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg"><span align="right">harbachova.zh@gmail.com</span>
+    <img align="left" alt="email" width="30" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true"><a href="mailto:harbachova.zh@gmail.com" align="right">harbachova.zh@gmail.com</span>
   </p>
 </div>
   <br/><br/>
