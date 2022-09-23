@@ -12,24 +12,10 @@
 - [x] [PostgreSql](https://github.com/snejcazh/SQL)
 - [x] [Charles](https://github.com/snejcazh/Charles)
 - [x] Devtools
-- [x] Python, Pytest, Selenium [StepikFinalProject](https://github.com/snejcazh/StepikFinalProject)
+- [x] Python, Pytest, Selenium [StepikFinalProject](https://github.com/snejcazh/StepikFinalProject), [DEMOQA](https://github.com/snejcazh/Test_demoqa)
 - [x] [HTML, CSS](https://snejcazh.github.io/rsschool-cv/)
 - [x] [Test documentation](https://github.com/snejcazh/TestDocumentation)
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="GIT" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="GitHub" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" alt="DevTools" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="PostgreSql" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" alt="Selenium" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50">
-  <img src="https://user-images.githubusercontent.com/99370940/160435038-7f0a69f0-f4aa-49f9-a8eb-86198977e167.png" alt="Postman" width="50">
-</div>
 
 [![codewars](https://www.codewars.com/users/snejcazh/badges/micro)](https://www.codewars.com/users/snejcazh)
 
