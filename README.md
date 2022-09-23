@@ -5,16 +5,16 @@
 
 <h2>I'm studying:</h2>
 
-- [x] [Bash](https://github.com/snejcazh/TXT)
-- [x] Git [txt](https://github.com/snejcazh/TXT), [xml](https://github.com/snejcazh/XML), [json](https://github.com/snejcazh/JSON)
-- [x] [Github](https://github.com/snejcazh/Github_HW_2)
+- [x] [Test documentation](https://github.com/snejcazh/TestDocumentation)
 - [x] [Postman](https://github.com/snejcazh/Postman)
 - [x] [PostgreSql](https://github.com/snejcazh/SQL)
 - [x] [Charles](https://github.com/snejcazh/Charles)
 - [x] Devtools
 - [x] Python, Pytest, Selenium [StepikFinalProject](https://github.com/snejcazh/StepikFinalProject), [DEMOQA](https://github.com/snejcazh/Test_demoqa)
+- [x] [Bash](https://github.com/snejcazh/TXT)
+- [x] Git [txt](https://github.com/snejcazh/TXT), [xml](https://github.com/snejcazh/XML), [json](https://github.com/snejcazh/JSON)
+- [x] [Github](https://github.com/snejcazh/Github_HW_2)
 - [x] [HTML, CSS](https://snejcazh.github.io/rsschool-cv/)
-- [x] [Test documentation](https://github.com/snejcazh/TestDocumentation)
 
 
 [![codewars](https://www.codewars.com/users/snejcazh/badges/micro)](https://www.codewars.com/users/snejcazh)
