@@ -25,4 +25,4 @@ Python, Pytest, Selenium [StepikFinalProject](https://github.com/snejcazh/Stepik
   
   
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=snejcazh&theme=matrix&title=Commits,Repositories,PullRequest&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=zhannaharbachova&theme=matrix&title=Commits,Repositories,PullRequest&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
